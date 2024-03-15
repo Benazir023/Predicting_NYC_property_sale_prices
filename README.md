@@ -18,7 +18,7 @@ We plotted sale price against property size for NYC as a whole & for each boroug
 Regression summary statistics are available for both NYC & each borough. These statistics include the coefficients shown in the following image (refer to file named output)
 ![image](https://github.com/Benazir023/Predicting_NYC_property_sale_prices/assets/123881327/814b0fbf-387b-4c13-a680-76955d6fa743)
 
-For instance the equation for sale price in Bronx whould be written as <br\ >
+For instance the equation for sale price in Bronx whould be written as <br>
 _sale_price = 0.0000254 + 649 * gross_square_feet_
 
 Our analysis showed that, in general, the gross_square_feet variable is useful for explaining, or estimating, sale_price for property sales in New York City. 
