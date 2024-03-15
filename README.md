@@ -2,7 +2,7 @@ In this project we'll use condominium sales data from all 5 boroughs of New York
 & across New York City as a whole. 
 This property sales data is publicly available here (https://data.world/dataquest/nyc-property-sales-data) and covers sales records from a twelve-month period (from November 1, 2018, through October 31, 2019).
 (refer to file named NYC_property_sale_prices_guided).
-The goal of the project is to: <br\>
+The goal of the project is to: 
 - apply our skills particularly linear regression models (aka bivariate linear regression),
 - evaluate summaries of regression statistics and
 - assess the model quality
